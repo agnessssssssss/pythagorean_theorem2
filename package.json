@@ -1,7 +1,6 @@
 {
   "name": "pythagorean_theorem2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon -e js,json,njk"
@@ -13,5 +12,7 @@
     "express": "^4.18.2",
     "nodemon": "^3.0.3",
     "nunjucks": "^3.2.4"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
