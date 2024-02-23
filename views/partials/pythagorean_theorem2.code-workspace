@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../vm22learnexpress-main2-main"
+		},
+		{
+			"path": "../../../pythagorean-theorem-calculator-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vm22learnexpress-main2-main"
+	}
+}
